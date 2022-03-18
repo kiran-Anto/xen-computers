@@ -1,0 +1,61 @@
+/* Margin top for the counter title of the home page */
+.elementor-widget-counter.counter-title .elementor-counter-title { margin-top: 10px; }
+
+/* Style select */
+form select { border-width: 1px 1px 4px 1px; border-color: #ededed; height: 54px; margin-top: 3px; }
+
+/* Loader in contact form */
+div.wpcf7 img.ajax-loader { display: block; }
+
+/* Boxes in the Practice Areas page */
+.elementor-widget-image-box.areas-box .elementor-image-box-content { padding: 20px; }
+.elementor-widget-image-box.areas-box .elementor-image-box-content h3 { margin-top: 0; }
+
+/* Boxes in the Attorneys page */
+.attorneys-boxes .elementor-widget-image-box, .attorneys-boxes .elementor-widget-divider { margin-bottom: 10px; }
+.attorneys-boxes .elementor-image-box-title { margin-bottom: 4px; }
+
+/* Buttons in the footer */
+#footer-widgets .footer-box .footer-btn { display: inline-block; font-size: 12px; line-height: 1; color: #cca876; border: 1px solid #202326; border-radius: 3px; padding: 12px 15px; text-transform: uppercase; letter-spacing: 1px; }
+#footer-widgets .footer-box .footer-btn.first { margin-right: 15px; }
+#footer-widgets .footer-box .footer-btn:hover { background-color: #202326; color: #fff; }
+
+/* Margin li contact info in the footer */
+#footer-widgets .contact-info-widget li { margin: 0 0 14px; }
+
+/* MailChimp input color in the footer */
+#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"] { color: #a0a8b1; }
+
+/* Responsive */
+@media (max-width: 767px) {
+    .elementor-element.custom-icon-boxes .elementor-widget-container { margin: 0; }
+}
+
+h2{
+	font-weight: bold;
+	font-size:100%;
+	padding-top:25px;
+	padding-left:70px;
+}
+
+#sub{
+	font-size:13px;
+	line-height:20px;
+	margin-right:200px;
+	padding: 10px;
+	padding-left:70px;
+}
+
+h5{
+	padding: 8px;
+}
+
+.blogw{
+	margin-bottom:-50px;
+	padding:20px;
+}
+
+.vid{
+	padding:30px;
+	padding-top:10px;
+}

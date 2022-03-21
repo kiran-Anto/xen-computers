@@ -67,7 +67,7 @@
 </nav>
 				
 <div>
-	<img src="<?php echo get_field('bgimage'); ?>">
+	<img src="<?php echo get_field('bgimage'); ?>"<<br>
 		 <h2><?php echo get_field('subtitle'); ?></h2><br>
 				</div>
 				<div class="vid">
@@ -76,8 +76,8 @@
 				<div class="blogw">
 					<img src="<?php echo get_field('mart'); ?>" style="width:500px">
 				</div>
-	<div id="sub">
-				<h5><?php echo get_field('subtext'); ?></h5>
+	<div id="sub"
+				<<h5><?php echo get_field('subtext'); ?></h5>
 </div>				
 
 				
